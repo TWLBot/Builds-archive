@@ -1,0 +1,86 @@
+{
+	"NAND_side": {
+		"booter": {
+			"booter_not_major": "7",
+			"booter_not_minor": "4",
+			"booter_not_micro": "0",
+			"booter_url": "http://cdn.kaeru.world/TWiLightMenu-update/TWiLightMenu/TWiLight%20Menu.cia"
+		},
+		"gameBooter": {
+			"not_major": "7",
+			"not_minor": "4",
+			"not_micro": "0",
+			"nand_url": "http://cdn.kaeru.world/TWiLightMenu-update/TWiLightMenu/TWiLight%20Menu%20-%20Game%20booter.cia"
+		}
+	},
+	"TWiLightMenu": {
+		"boot": {
+			"boot_major": "7",
+			"boot_minor": "4",
+			"boot_micro": "0",
+			"boot_url": "http://cdn.kaeru.world/TWiLightMenu-update/TWiLightMenu/boot.nds"
+		},
+		"main": {
+			"main_major": "7",
+			"main_minor": "4",
+			"main_micro": "0",
+			"main_url": "http://cdn.kaeru.world/TWiLightMenu-update/TWiLightMenu/main.srldr"
+		},
+		"settings": {
+			"settings_major": "7",
+			"settings_minor": "4",
+			"settings_micro": "0",
+			"settings_url": "http://cdn.kaeru.world/TWiLightMenu-update/TWiLightMenu/settings.srldr"
+		},
+		"dsimenu": {
+			"dsimenu_major": "7",
+			"dsimenu_minor": "4",
+			"dsimenu_micro": "0",
+			"dsimenu_url": "http://cdn.kaeru.world/TWiLightMenu-update/TWiLightMenu/dsimenu.srldr"
+		},
+		"r4menu": {
+			"r4menu_major": "7",
+			"r4menu_minor": "4",
+			"r4menu_micro": "0",
+			"r4menu_url": "http://cdn.kaeru.world/TWiLightMenu-update/TWiLightMenu/r4menu.srldr"
+		},
+		"akmenu": {
+			"akmenu_major": "7",
+			"akmenu_minor": "4",
+			"akmenu_micro": "0",
+			"akmenu_url": "http://cdn.kaeru.world/TWiLightMenu-update/TWiLightMenu/akmenu.srldr"
+		},
+		"slot1launch": {
+			"slot1launch_major": "7",
+			"slot1launch_minor": "4",
+			"slot1launch_micro": "0",
+			"slot1launch_url": "http://cdn.kaeru.world/TWiLightMenu-update/TWiLightMenu/slot1launch.srldr"
+		}
+	},
+	"prebuilds": {
+		"GBARunner2": {
+			"GBARunner2_major": "4",
+			"GBARunner2_minor": "2",
+			"GBARunner2_micro": "0",
+			"GBARunner2_url": "http://cdn.kaeru.world/TWiLightMenu-update/prebuilts/GBARunner2.nds"
+		},
+		"nesTwl": {
+			"nesTwl_major": "6",
+			"nesTwl_minor": "4",
+			"nesTwl_micro": "4",
+			"nesTwl_url": "http://cdn.kaeru.world/TWiLightMenu-update/prebuilts/nesTwl.nds"
+		},
+		"GameYob": {
+			"GameYob_major": "5",
+			"GameYob_minor": "5",
+			"GameYob_micro": "1",
+			"GameYob_url": "http://cdn.kaeru.world/TWiLightMenu-update/prebuilts/GameYob.nds"
+		}
+	},
+	"nds-bootstrap": {
+		"release_ver": "Release v0.17.0 ",
+		"nightly_ver": "Nightly f095cfe    ",
+		"release_url": "http://cdn.kaeru.world/TWiLightMenu-update/nds-bootstrap-release.nds",
+		"nightly_url": "http://cdn.kaeru.world/TWiLightMenu-update/nds-bootstrap-nightly.nds"
+	}
+}
