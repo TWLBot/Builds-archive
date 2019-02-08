@@ -1,2 +1,2 @@
 # Boxarts
-These boxarts have been retrieved from [GameTDB](https://www.gametdb.com/DS)
+This is where Romhack boxarts are stored
