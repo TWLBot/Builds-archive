@@ -1,2 +1,4 @@
 # ![1998 logo xD](https://raw.githubusercontent.com/TWLBot/Builds/master/TWLBot%20Logo.png)
-This is where builds, for [TWiLight Menu++](https://github.com/RocketRobz/TWiLightMenu), [nds-bootstrap](https://github.com/ahezard/nds-bootstrap), and the [TWiLightMenu-Updater](https://github.com/RocketRobz/TWiLightMenu-Updater) are hosted. Other homebrew is hosted here too! They include, [hiyaCFW](https://github.com/RocketRobz/hiyaCFW), [GodMode9i](https://github.com/RocketRobz/GodMode9i), and [CardIDGetter](https://github.com/RocketRobz/CardIDGetter)
+This is where builds, for [TWiLight Menu++](https://github.com/RocketRobz/TWiLightMenu), [nds-bootstrap](https://github.com/ahezard/nds-bootstrap), and the [TWiLightMenu-Updater](https://github.com/RocketRobz/TWiLightMenu-Updater) are hosted. 
+
+Other homebrew is hosted here too, you can find them in the [extras folder](https://github.com/TWLBot/Builds/tree/master/extras).
