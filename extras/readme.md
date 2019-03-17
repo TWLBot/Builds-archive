@@ -11,5 +11,7 @@ List:
 
 [GodMode9i](https://github.com/RocketRobz/GodMode9i)
 
+[lolSnes](https://github.com/DS-Homebrew/lolSnes)
+
 # Important
 Do not use [B4DS.7z](https://github.com/TWLBot/Builds/blob/master/extras/B4DS.7z?raw=true) on your 3DS or DSi's SD Card, it is meant for Slot-1 (NTR/TWL Card Slot) and Slot-2 (GBA Slot on DS Phat/Lite) Flashcards only.
